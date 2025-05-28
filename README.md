@@ -34,6 +34,8 @@ This project implements a **4-bit signed Booth's Multiplier** in Verilog, along 
 
 Booth’s algorithm is used for multiplying two signed binary numbers. It reduces the number of addition and subtraction operations, making it more efficient than the standard binary multiplication method, especially for sequences of 1s.
 
+![Booth's Algorithm](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFHrQ6-rfAOdq_fjV6iP25Ej783tBQRDGQjd_Jo5R6GeH0FhNQ_41GpEYtnHj4oFppRwEMsQZ7gn22fHTKJ96HJYwbQW1i3Y0JO-f4sJLqYoMliSw0RrPJbr75-pBsXBrUydICAwjdL0OZ/s1428/Booth_flow.png)
+
 ---
 
 ## 🔧 How It Works
