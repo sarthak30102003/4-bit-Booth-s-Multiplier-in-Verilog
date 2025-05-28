@@ -86,7 +86,7 @@ Output is displayed using `$display`.
 
 ## 📷 Sample Output
 
-![Waveform Output](sim/4bit_booth_multiplier.png)
+![Waveform Output](4bit_booth's_multiplier/sim/4bit_booth_multiplier.png)
 
 ---
 
